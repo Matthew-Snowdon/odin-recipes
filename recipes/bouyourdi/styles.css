@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(0, 97, 187);
+}
+
+.align {
+    display: inline-block;
+}
+
+h1 {
+    color: white;
+    font-family: sans-serif, 'Arial Narrow Bold', Impact;
+    font-size: 100px;
+    text-align: center;
+    width:600px;
+    margin:10px;
+    margin-left: 100px;
+    padding-right: 100px;
+    background-color: rgb(0, 97, 187);
+}
+
+h3 {
+font-size: 35px;
+font-weight: 900;
+width:1400px;
+margin-top: 15px;
+text-align: center;
+}
+
+img {
+    border: 6px solid white;
+    margin-top: 0px;
+    transform: rotate(90deg);
+    height: 675px;
+    width: auto;
+}
+
+.lists {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+li,
+ul {
+    font-style: italic;
+}
