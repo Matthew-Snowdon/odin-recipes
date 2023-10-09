@@ -1,2 +1,0 @@
-# odin-recipes
-In this project I intend to implement the HTML foundations I've learnt so far into a functional website, with hyperlinks and images. This will help me get used to the workflow and aid in helping me remember the process. I'll be periodically commiting changes to git and will push all changes at the end of a session, this way I can see when a change was made and the impact it may have had.
