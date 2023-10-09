@@ -1,0 +1,44 @@
+body {
+    background-color: green;
+}
+
+.align {
+    display: inline-block;
+}
+
+h1 {
+    color: red;
+    font-family: sans-serif, 'Arial Narrow Bold', Impact;
+    font-size: 100px;
+    text-align: center;
+    width:400px;
+    margin:10px;
+    margin-left: 0px;
+    padding-right: 10px;
+    background-color: green;
+}
+
+h3 {
+font-size: 35px;
+font-weight: 900;
+width:1000px;
+margin-top: 15px;
+}
+
+img {
+    border: 6px solid red;
+    margin-top: 0px;
+    margin-right: 100px;
+}
+
+.lists {
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+li,
+ul {
+    font-style: italic;
+}
